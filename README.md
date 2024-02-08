@@ -1,7 +1,7 @@
 # Hi there ...🤗
 - 👋 Hi, I’m @anacpessan
 - 👀 I’m interested in the technology, education and coding;
-- 🌱 I’m currently learning about C, C++, HTML and Javascript;
+- 🌱 I’m currently learning about CSS, HTML and Javascript;
 - 🤝 Lets Talk and help each other;
 - 📫 You can reach me on https://www.linkedin.com/in/anacpessan/
 
